@@ -1,0 +1,121 @@
+CUSTOMERID,CITYID,COUNTRYID,REGIONID,CUSTOMER,CITYNAME,COUNTRYNAME,REGIONNAME
+1,1,1,1,EGlobal,Washington,USA,North America
+2,2,1,1,Teledyne Corp,New York,USA,North America
+3,3,2,1,TrekStore,Vancouver,Canada,North America
+4,4,2,1,Digitex Components,Toronto,Canada,North America
+5,5,2,1,Glicomp Inc,Quebec,Canada,North America
+6,6,3,2,Hexor,Paris,France,Europe
+7,7,3,2,CSP Systems,Marseilles,France,Europe
+8,8,4,2,XMaker inc.,London,UK,Europe
+9,9,4,2,Scorpionix,York,UK,Europe
+10,10,5,2,Quebertini,Madrid,Spain,Europe
+11,11,5,2,Seine Electroniques,Barcelona,Spain,Europe
+12,12,6,2,Computeur & Cie,Roma,Italy,Europe
+13,13,6,2,La Garrigue Systems,Firenze,Italy,Europe
+14,14,7,2,Savon Equipment,Berlin,Germany,Europe
+15,15,7,2,Biggs Brothers,Stutgart,Germany,Europe
+16,16,8,2,Baguette SA,Oslo,Northern Europe,Europe
+17,17,8,2,XoR Electronics,Stockholm,Northern Europe,Europe
+18,18,8,2,Microsystems Inc,Copenhagen,Northern Europe,Europe
+19,19,9,3,Zap Corp.,Rio,Brasil,Latin America
+20,20,9,3,Dill Computers,Brasilia,Brasil,Latin America
+21,21,10,3,Ets La Cigale,Medelin,Colombia,Latin America
+22,22,11,3,Wasserheim Intl,Mexico,Mexico,Latin America
+23,23,12,4,Satonen Perrkola,Dubai,Emirates,EEMEA
+24,24,13,4,Billawonga Brothers,Pragues,Eastern Europe,EEMEA
+25,25,13,4,Shawinigan Inc,Moscow,Eastern Europe,EEMEA
+26,26,15,5,Cylons R Us,Tokyo,Japan,Asia PAC
+27,27,15,5,Galaxian,Osaka,Japan,Asia PAC
+28,28,15,5,MoniBoni,Kyoto,Japan,Asia PAC
+29,29,14,5,Joslyn Manufacturing,Singapore,Singapore,Asia PAC
+30,30,16,5,Bouche Ets,Bangkok,Thailand,Asia PAC
+31,1,1,1,Zerg Systems,Washington,USA,North America
+32,2,1,1,Yap Inc,New York,USA,North America
+33,3,2,1,Booya Corp,Vancouver,Canada,North America
+34,4,2,1,Filicomp,Toronto,Canada,North America
+35,5,2,1,Grim Brothers,Quebec,Canada,North America
+36,6,3,2,Auclerc,Paris,France,Europe
+37,7,3,2,Lechamps,Marseilles,France,Europe
+38,8,4,2,Goohoo Services,London,UK,Europe
+39,9,4,2,Yaggle Components,York,UK,Europe
+40,10,5,2,ThinkSmart,Madrid,Spain,Europe
+41,11,5,2,ForgeIt,Barcelona,Spain,Europe
+42,12,6,2,Lombardino,Roma,Italy,Europe
+43,13,6,2,Fiddo,Firenze,Italy,Europe
+44,14,7,2,KPS Gmbh,Berlin,Germany,Europe
+45,15,7,2,ABC Gmbh,Stutgart,Germany,Europe
+46,16,8,2,Bongawila,Oslo,Northern Europe,Europe
+47,17,8,2,StoCo,Stockholm,Northern Europe,Europe
+48,18,8,2,CopCo,Copenhagen,Northern Europe,Europe
+49,19,9,3,Janere Co,Rio,Brasil,Latin America
+50,20,9,3,BomDia,Brasilia,Brasil,Latin America
+51,21,10,3,Malaga Systems,Medelin,Colombia,Latin America
+52,22,11,3,VerBiCo,Mexico,Mexico,Latin America
+53,23,12,4,BCD Corp,Dubai,Emirates,EEMEA
+54,24,13,4,Maploc,Pragues,Eastern Europe,EEMEA
+55,25,13,4,GlobalSys,Moscow,Eastern Europe,EEMEA
+56,26,15,5,Tgw,Tokyo,Japan,Asia PAC
+57,27,15,5,Osk Solutions,Osaka,Japan,Asia PAC
+58,28,15,5,Kjp Systems,Kyoto,Japan,Asia PAC
+59,29,14,5,SimLimSys,Singapore,Singapore,Asia PAC
+60,30,16,5,NungSongSam,Bangkok,Thailand,Asia PAC
+61,1,1,1,Tekmutek,Washington,USA,North America
+62,2,1,1,Tekmugear,New York,USA,North America
+63,3,2,1,Tekmubuy,Vancouver,Canada,North America
+64,4,2,1,Tekmu Inc.,Toronto,Canada,North America
+65,5,2,1,Tekmitek,Quebec,Canada,North America
+66,6,3,2,Tekmigear,Paris,France,Europe
+67,7,3,2,Tekmibuy,Marseilles,France,Europe
+68,8,4,2,Tekmi Inc.,London,UK,Europe
+69,9,4,2,Tektatek,York,UK,Europe
+70,10,5,2,Tektagear,Madrid,Spain,Europe
+71,11,5,2,Tektabuy,Barcelona,Spain,Europe
+72,12,6,2,Tekta Inc.,Roma,Italy,Europe
+73,13,6,2,Tekbotek,Firenze,Italy,Europe
+74,14,7,2,Tekbogear,Berlin,Germany,Europe
+75,15,7,2,Tekbobuy,Stutgart,Germany,Europe
+76,16,8,2,Tekbo Inc.,Oslo,Northern Europe,Europe
+77,17,8,2,Sportmutek,Stockholm,Northern Europe,Europe
+78,18,8,2,Sportmugear,Copenhagen,Northern Europe,Europe
+79,19,9,3,Sportmubuy,Rio,Brasil,Latin America
+80,20,9,3,Sportmu Inc.,Brasilia,Brasil,Latin America
+81,21,10,3,Sportmitek,Medelin,Colombia,Latin America
+82,22,11,3,Sportmigear,Mexico,Mexico,Latin America
+83,23,12,4,Sportmibuy,Dubai,Emirates,EEMEA
+84,24,13,4,Sportmi Inc.,Pragues,Eastern Europe,EEMEA
+85,25,13,4,Sporttatek,Moscow,Eastern Europe,EEMEA
+86,26,15,5,Sporttagear,Tokyo,Japan,Asia PAC
+87,27,15,5,Sporttabuy,Osaka,Japan,Asia PAC
+88,28,15,5,Sportta Inc.,Kyoto,Japan,Asia PAC
+89,29,14,5,Sportbotek,Singapore,Singapore,Asia PAC
+90,30,16,5,Sportbogear,Bangkok,Thailand,Asia PAC
+91,1,1,1,Sportbobuy,Washington,USA,North America
+92,2,1,1,Sportbo Inc.,New York,USA,North America
+93,3,2,1,Telmutek,Vancouver,Canada,North America
+94,4,2,1,Telmugear,Toronto,Canada,North America
+95,5,2,1,Telmubuy,Quebec,Canada,North America
+96,6,3,2,Telmu Inc.,Paris,France,Europe
+97,7,3,2,Telmitek,Marseilles,France,Europe
+98,8,4,2,Telmigear,London,UK,Europe
+99,9,4,2,Telmibuy,York,UK,Europe
+100,10,5,2,Telmi Inc.,Madrid,Spain,Europe
+101,11,5,2,Teltatek,Barcelona,Spain,Europe
+102,12,6,2,Teltagear,Roma,Italy,Europe
+103,13,6,2,Teltabuy,Firenze,Italy,Europe
+104,14,7,2,Telta Inc.,Berlin,Germany,Europe
+105,15,7,2,Telbotek,Stutgart,Germany,Europe
+106,16,8,2,Telbogear,Oslo,Northern Europe,Europe
+107,17,8,2,Telbobuy,Stockholm,Northern Europe,Europe
+108,18,8,2,Telbo Inc.,Copenhagen,Northern Europe,Europe
+109,19,9,3,Allmutek,Rio,Brasil,Latin America
+110,20,9,3,Allmugear,Brasilia,Brasil,Latin America
+111,21,10,3,Allmubuy,Medelin,Colombia,Latin America
+112,22,11,3,Allmu Inc.,Mexico,Mexico,Latin America
+113,23,12,4,Allmitek,Dubai,Emirates,EEMEA
+114,24,13,4,Allmigear,Pragues,Eastern Europe,EEMEA
+115,25,13,4,Allmibuy,Moscow,Eastern Europe,EEMEA
+116,26,15,5,Allmi Inc.,Tokyo,Japan,Asia PAC
+117,27,15,5,Alltatek,Osaka,Japan,Asia PAC
+118,28,15,5,Alltagear,Kyoto,Japan,Asia PAC
+119,29,14,5,Alltabuy,Singapore,Singapore,Asia PAC
+120,30,16,5,Allta Inc.,Bangkok,Thailand,Asia PAC
